@@ -3,3 +3,12 @@ body{
     font-family: Playfair Display, cursive;
     font-size: 40px;
 }
+header{
+    text-align: center;
+}
+.top1{
+    background-color: rgb(255, 0, 106);
+ color:white;
+ text-align:center;
+ padding:40px;
+}
